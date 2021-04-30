@@ -23,7 +23,7 @@ public class HelloWorldController {
 		return "Hello World";
 	}
 	
-	// 2. how to return a bean
+	// 2. how to return a bean / object
 	@GetMapping(path="/hello-world-beans")
 	public HelloWorldBean helloWorldBean(){
 		return new HelloWorldBean("Hello World");
