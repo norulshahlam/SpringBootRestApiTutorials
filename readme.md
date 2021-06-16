@@ -1,4 +1,4 @@
-## Tutorial on rest api using spring boot. the data is not persisted and hence it will get removed every runtime.
+## Tutorial on rest api using spring boot.
 
 ### this whole project is using vscode. make sure you have your related extensions installed or run this line:
 
